@@ -40,26 +40,6 @@
 
 ## 📂 Featured Projects
 
-### 🔹 **Minimal Download Manager (Python + PyQt6)**
-A fast multi-thread downloader with UI — supports playlists & smart detection.
-
-**Repo:** https://github.com/USERNAME/PROJECT
-
----
-
-### 🔹 **Hyprland Auto Config Pack**
-Scripts and configs for Hyprland: animations, borders, cursor fixes, waybar effects.
-
-**Repo:** https://github.com/USERNAME/PROJECT
-
----
-
-### 🔹 **VLESS + Reality Automation**
-An automated script for secure V2Ray deployment on Ubuntu/Hetzner with no domain.
-
-**Repo:** https://github.com/USERNAME/PROJECT
-
----
 
 ## 📈 GitHub Stats
 
