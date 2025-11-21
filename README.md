@@ -23,7 +23,7 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
 </p>
 
 ### **Tools & Platforms**
@@ -33,7 +33,7 @@
 
 ### **Currently Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,django" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
 ---
