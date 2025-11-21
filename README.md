@@ -1,14 +1,3 @@
-<!-- Profile Image -->
-<p align="center">
-  <picture style="border-radius: 50%; overflow: hidden; display: inline-block;">
-    <img src="https://avatars.githubusercontent.com/u/186819750?v=4" 
-         alt="Erfan Mousavi"
-         width="150">
-  </picture>
-</p>
-
-
-
 <!-- Header -->
 <h1 align="center">Hi, I'm Erfan Mousavi 👋</h1>
 <h3 align="center">Developer • Linux Enthusiast • Security & Networking Learner</h3>
@@ -51,17 +40,6 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Project 1 — *Name Here*
-Short description (2–3 lines).  
-👉 **Repo:** https://github.com/erfanmousavi/REPO_NAME
-
-### 🔹 Project 2 — *Name Here*
-Short description (what problem it solves).  
-👉 **Repo:** https://github.com/erfanmousavi/REPO_NAME
-
-### 🔹 Project 3 — *Name Here*
-Short description (tech used, purpose).  
-👉 **Repo:** https://github.com/erfanmousavi/REPO_NAME
 
 ---
 
