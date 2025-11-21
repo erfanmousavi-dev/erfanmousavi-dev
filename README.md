@@ -14,7 +14,7 @@
 - 🧠 Interested in Cybersecurity, Networking, and DevOps  
 - 🛠️ Working on automation, scripts, servers, and performance tools  
 - ☁️ Experience with cloud servers (Hetzner, Aeza, etc.)  
-- 🌱 Currently learning **ASP.net**, **Django**, and **CEH**  
+- 🌱 Currently learning **ASP.NET**, **Django**, and **CEH**  
 - 🎯 Goal: Build practical tools & contribute to open-source
 
 ---
@@ -40,6 +40,19 @@
 
 ## 📂 Featured Projects
 
+### 🔹 Project 1 — *Name Here*
+Short description (2–3 lines).  
+👉 **Repo:** https://github.com/erfanmousavi/REPO_NAME
+
+### 🔹 Project 2 — *Name Here*
+Short description (what problem it solves).  
+👉 **Repo:** https://github.com/erfanmousavi/REPO_NAME
+
+### 🔹 Project 3 — *Name Here*
+Short description (tech used, purpose).  
+👉 **Repo:** https://github.com/erfanmousavi/REPO_NAME
+
+---
 
 ## 📈 GitHub Stats
 
@@ -53,9 +66,9 @@
 ## 📫 Contact Me
 
 <p>
-  💼 Telegram: **@erfang22**  
-  ✉️ Email: **erfanmousaviam@proton.me**  
-\</p>
+  💼 Telegram: <b>@erfang22</b><br>
+  ✉️ Email: <b>erfanmousaviam@proton.me</b>
+</p>
 
 ---
 
