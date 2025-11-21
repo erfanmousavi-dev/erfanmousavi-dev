@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/erfanmousavi.png" 
+  <img src="https://avatars.githubusercontent.com/u/186819750" 
        alt="Erfan Mousavi" 
        width="150" 
        style="border-radius: 50%;"/>
