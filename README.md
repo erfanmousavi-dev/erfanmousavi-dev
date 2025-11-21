@@ -1,3 +1,11 @@
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://github.com/erfanmousavi.png" 
+       alt="Erfan Mousavi" 
+       width="150" 
+       style="border-radius: 50%;"/>
+</p>
+
 <!-- Header -->
 <h1 align="center">Hi, I'm Erfan Mousavi 👋</h1>
 <h3 align="center">Developer • Linux Enthusiast • Security & Networking Learner</h3>
