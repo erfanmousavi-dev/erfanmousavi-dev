@@ -14,7 +14,7 @@
 - 🧠 Interested in Cybersecurity, Networking, and DevOps  
 - 🛠️ Working on automation, scripts, servers, and performance tools  
 - ☁️ Experience with cloud servers (Hetzner, Aeza, etc.)  
-- 🌱 Currently learning **Ansible**, **V2Ray configs**, and **system automation**  
+- 🌱 Currently learning **ASP.net**, **Django**, and **CEH**  
 - 🎯 Goal: Build practical tools & contribute to open-source
 
 ---
@@ -23,17 +23,17 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,java" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,nginx,docker,arch,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,nginx,docker,arch,kali,kubernetes,pycharm,rider,vim,vscode" />
 </p>
 
 ### **Currently Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=ansible,go,react" />
+  <img src="https://skillicons.dev/icons?i=dotnet,django" />
 </p>
 
 ---
@@ -53,10 +53,9 @@
 ## 📫 Contact Me
 
 <p>
-  💼 Telegram: **@YOUR_USERNAME**  
-  ✉️ Email: **YOUR@EMAIL.COM**  
-  🌐 Website (Coming soon...)
-</p>
+  💼 Telegram: **@erfang22**  
+  ✉️ Email: **erfanmousaviam@proton.me**  
+\</p>
 
 ---
 
