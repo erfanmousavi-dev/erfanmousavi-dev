@@ -1,10 +1,12 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/186819750" 
-       alt="Erfan Mousavi" 
-       width="150" 
-       style="border-radius: 50%;"/>
+  <picture style="border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://avatars.githubusercontent.com/u/186819750?v=4" 
+         alt="Erfan Mousavi"
+         width="150">
+  </picture>
 </p>
+
 
 <!-- Header -->
 <h1 align="center">Hi, I'm Erfan Mousavi 👋</h1>
