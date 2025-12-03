@@ -28,7 +28,7 @@
 
 ### **Tools & Platforms That I Use**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,nginx,docker,arch,,vim,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,nginx,docker,arch,vim,vscode" />
 </p>
 
 ### **Currently Learning**
