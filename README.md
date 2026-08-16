@@ -52,13 +52,13 @@ class ErfanMousavi:
 ### Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bsd"/>
+<img src="https://skillicons.dev/icons?i=linux,bsd,debian,ubuntu"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,debian,arduino,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,arduino,docker"/>
 </p>
 
 ---
