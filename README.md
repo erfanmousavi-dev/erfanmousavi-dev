@@ -21,13 +21,12 @@ class ErfanMousavi:
     major = "Computer Science"
 
     languages = [
-        "Python",
-        "Bash"
+        "Python"
     ]
 
     os = [
-        "macOS",
-        "Linux"
+        "Linux",
+        "Any Unix !"
     ]
 
     interests = [
@@ -53,13 +52,13 @@ class ErfanMousavi:
 ### Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,apple"/>
+<img src="https://skillicons.dev/icons?i=linux,bsd"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,debian,arduino,docker"/>
 </p>
 
 ---
@@ -77,6 +76,7 @@ class ErfanMousavi:
 # 📂 Featured Projects
 
 ⭐ **PDownloader** — Cross-platform terminal downloader
+⭐ **BusFinder** — A Python script to search for my bus and seat from payaneha website !
 
 More projects are available in my repositories.
 
@@ -98,12 +98,16 @@ If you have ideas, improvements, or bug fixes, feel free to open an Issue or Pul
 erfanmousaviam@proton.me
 ```
 
+📧 **Telegram**
+
+```
+@erfanmousaviam
+```
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting!
 
-*"Code. Learn. Repeat."*
 
 </div>
